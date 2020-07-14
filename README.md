@@ -1,3 +1,5 @@
-# This Repository consist of webcrwaling contents
+# This Repository consist of web crawling contents
+
 > 1. Python
-> 2. TBD
+> 2. R
+> 3. JAVA
